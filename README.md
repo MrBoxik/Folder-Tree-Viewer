@@ -4,10 +4,7 @@ Here’s an app I coded — it shows all files in a selected folder in a clean *
 Originally, I made it for my *SnowRunner Save Editor* to help me visualize file structures of all the version of it.  
 I ended up not using it tho... but since it might be useful to someone else, here it is.  
 
-## ⬇️ Download
-
-**Download the latest .exe in the assets**  
-   ➡️ [Download](https://github.com/MrBoxik/Folder-Tree-Viewer/releases/tag/2.0)
+## ➡️ [Download](https://github.com/MrBoxik/Folder-Tree-Viewer/releases/tag/2.0)
 
 ---
 
