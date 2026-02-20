@@ -35,7 +35,7 @@ I ended up not using it tho... but since it might be useful to someone else, her
 
 ## 💬 Feedback or Questions?
 
-You can leave feedback [here on GitHub](https://github.com/MrBoxik/SnowRunner-Save-Editor/issues) — but I’m not going to be super active here.  
+You can leave feedback [here on GitHub](https://github.com/MrBoxik/Folder-Tree-Viewer/issues) — but I’m not going to be super active here.  
 
 You’ll have better chances of getting a reply if you message me on [Discord](https://discord.com/users/638802769393745950).
 
